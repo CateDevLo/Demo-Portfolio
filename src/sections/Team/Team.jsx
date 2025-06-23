@@ -2,6 +2,7 @@ import Button from "../../components/Button/Button";
 import { FiArrowUpRight } from "react-icons/fi";
 import TeamMember1 from "../../assets/images/Team Member 1.png";
 import TeamMember2 from "../../assets/images/Team Member 2.png";
+import TeamMember3 from "../../assets/images/Team Member 3.png";
 import { useContext } from "react";
 import { AnimationContext } from "../../context/animation";
 import { motion } from "framer-motion";
@@ -11,7 +12,8 @@ const Team = () => {
 
   const teamMembers = [
     { img: TeamMember1, name: "Xuân Tùng", role: "Người sáng lập Code Chúng Tôi Lỏ" },
-    { img: TeamMember2, name: "Bích Diệp", role: "Người đẹp trai vô địch siêu cấp thế giới" },
+    { img: TeamMember2, name: "Bích Diệp", role: "Đồng sáng lập Code Chúng Tôi Lỏ" },
+    { img: TeamMember3, name: "Hiếu Minh", role: "Cô Gái Sư Phạm nhưng mà thích làm Thiết Kế" },
   ];
 
   return (
