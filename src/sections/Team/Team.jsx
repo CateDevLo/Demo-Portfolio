@@ -13,7 +13,7 @@ const Team = () => {
   const teamMembers = [
     { img: TeamMember1, name: "Xuân Tùng", role: "Người sáng lập Code Chúng Tôi Lỏ" },
     { img: TeamMember2, name: "Bích Diệp", role: "Đồng sáng lập Code Chúng Tôi Lỏ" },
-    { img: TeamMember3, name: "Hiếu Minh", role: "Cô Gái Sư Phạm nhưng mà thích làm Thiết Kế" },
+    { img: TeamMember3, name: "Hiếu Minh", role: "Cô Gái Sư Phạm nhưng mà thích Thiết Kế" },
   ];
 
   return (
