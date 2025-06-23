@@ -16,6 +16,8 @@ const Footer = () => {
     { text: "Telegram", handle: "@WhoisCate", icon: <FaTelegram /> },
     { text: "Facebook", handle: "diepnuanekk21", icon: <FaFacebook /> },
     { text: "Facebook", handle: "whoiscatee", icon: <FaFacebook /> },
+    { text: "Facebook", handle: "thai.nguyen.hieu.minh", icon: <FaFacebook /> },
+    { text: "Instagram", handle: "_thnghm_", icon: <FaInstagram /> },
   ];
 
   return (
