@@ -22,12 +22,6 @@
 
 Follow these steps to run Digitaly in your local machine.
 
-### Clone this repository
-
-```bash
-git clone https://github.com/israelmitolu/Digitaly.git
-```
-
 ### Navigate to directory
 
 ```bash
@@ -58,6 +52,6 @@ npm run build
 
 ## Credits ✍
 
-Implementation by @israelmitolu and [@pappyjay23](https://github.com/Pappyjay23)
+Implementation by @Cate 
 
-Design inspiration: [One Week Wonders](https://dribbble.com/shots/18963472-Digitaly-Digital-Marketing-Agency-Landing-Page-Website)
+Design by Nguyễn Xuân Tùng
